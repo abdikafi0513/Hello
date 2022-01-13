@@ -1,0 +1,15 @@
+{
+  "name": "abdikafi/328/Hello",
+  "description": "First Mvc project",
+  "minimum-stability": "stable",
+  "license": "Open source",
+  "authors": [
+    {
+      "name": "Abdikafi",
+      "email": "jama.abdikafi@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
